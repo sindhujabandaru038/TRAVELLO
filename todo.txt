@@ -1,0 +1,3 @@
+->environment setup
+->django installation
+->packages
